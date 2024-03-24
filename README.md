@@ -9,16 +9,19 @@ The objective of this application is to parse a stream of events and produce an 
 ## Installation
 
 1. Clone this repository:
-
+```
 git clone <repository-url>
+```
 
 2. Navigate to the project directory:
-
+```
 cd unbabel-cli
+```
 
 3. Install the required dependencies:
-
+```
 pip install -r requirements.txt
+```
 
 ## Usage
 Run the application using the following command:
@@ -40,7 +43,7 @@ The input file should contain JSON-formatted events, each representing a transla
 ```
 
 
-Output Format:
+##Output Format
 ```json
 {"date": "2018-12-26 18:11:00", "average_delivery_time": 0}
 {"date": "2018-12-26 18:12:00", "average_delivery_time": 20}
@@ -51,12 +54,10 @@ Output Format:
 ```
 
 
-Testing :
+##Testing
 python AutoTest.py
 
-
-Author
-[Mohamed Elareef]
+ 
 
 
 
