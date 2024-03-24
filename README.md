@@ -10,7 +10,7 @@ The objective of this application is to parse a stream of events and produce an 
 
 1. Clone this repository:
 ```
-git clone <repository-url>
+git clone https://github.com/Mohamed-Elareef/Unbabel-Challenge.git
 ```
 
 2. Navigate to the project directory:
