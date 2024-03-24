@@ -2,7 +2,7 @@ import json
 import subprocess
 
 # Run the program
-subprocess.run(["/bin/python3", "/home/mohamed/Challenge/Challenge.py"])
+subprocess.run(["/bin/python3", "Challenge.py"])
 
 # Load expected output
 with open("expected_output.json", "r") as f:
