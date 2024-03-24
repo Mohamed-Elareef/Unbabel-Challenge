@@ -55,6 +55,7 @@ The input file should contain JSON-formatted events, each representing a transla
 
 
 ##Testing
+
 Automated tests have been provided to ensure the correctness of the application. To run the tests, execute the following command:
 ```
 python AutoTest.py
