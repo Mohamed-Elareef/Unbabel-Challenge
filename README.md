@@ -43,7 +43,8 @@ The input file should contain JSON-formatted events, each representing a transla
 ```
 
 
-##Output Format
+## Output Format
+
 ```json
 {"date": "2018-12-26 18:11:00", "average_delivery_time": 0}
 {"date": "2018-12-26 18:12:00", "average_delivery_time": 20}
@@ -54,7 +55,7 @@ The input file should contain JSON-formatted events, each representing a transla
 ```
 
 
-##Testing
+## Testing
 
 Automated tests have been provided to ensure the correctness of the application. To run the tests, execute the following command:
 ```
