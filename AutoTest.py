@@ -13,11 +13,11 @@ with open("output.json", "r") as f:
     actual_output = [json.loads(line.strip()) for line in f]
 
 
-print("Expected output:")
-print(expected_output)
+##print("Expected output:")
+##print(expected_output)
 
-print("Actual output:")
-print(actual_output)
+##print("Actual output:")
+##print(actual_output)
 
 # Assert both outputs are equal
 assert expected_output == actual_output
